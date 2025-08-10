@@ -1,0 +1,10 @@
+Oque é o Git?
+
+O Git é um sistema de controle de versão distribuído, gratuito e de código aberto, usado para rastrear alterações em arquivos de projeto, especialmente em desenvolvimento de software. Ele permite que várias pessoas trabalhem juntas em um projeto, mantendo o histórico de alterações e facilitando a colaboração. 
+
+
+Link para download do Git: https://git-scm.com/downloads
+link para o tutorial do Git: https://git-scm.com/docs/gittutorial
+Link do manual do Git: https://git-scm.com/docs/user-manual
+link para conjunto mínimo de comandos úteis: https://git-scm.com/docs/giteveryday
+link que mostra os comandos o Git oferece: https://git-scm.com/docs/git#_git_commands

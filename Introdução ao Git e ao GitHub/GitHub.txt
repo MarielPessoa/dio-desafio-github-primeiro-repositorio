@@ -1,0 +1,10 @@
+Oque é o GitHub?
+
+O GitHub é uma plataforma online baseada em nuvem que utiliza o sistema de controle de versão Git para hospedar e gerenciar projetos de software, facilitando a colaboração entre desenvolvedores. É um local onde as pessoas podem armazenar, compartilhar e trabalhar em conjunto em código.
+
+O GitHub é uma ferramenta essencial para desenvolvimento colaborativo de software, oferecendo um ambiente para hospedagem de código, controle de versão e colaboração entre desenvolvedores e projetos, seja em código aberto ou privado 
+
+Links do GitHub: https://github.com/
+Links tudo que preciso saber sobre o GitHub: https://docs.github.com/pt/get-started
+
+
